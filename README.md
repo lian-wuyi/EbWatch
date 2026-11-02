@@ -54,19 +54,19 @@
 
 **管理后台**
 
-![EbWatch 管理后台](screenshots/dashboard.png)
+![EbWatch 管理后台](/dashboard.png)
 
 **屏幕记录**
 
-![EbWatch 屏幕记录](screenshots/monitor.png)
+![EbWatch 屏幕记录](/monitor.png)
 
 **历史查询**
 
-![EbWatch 历史截图查询](screenshots/history.png)
+![EbWatch 历史截图查询](/history.png)
 
 **统计分析**
 
-![EbWatch 统计分析](screenshots/analytics.png)
+![EbWatch 统计分析](/analytics.png)
 
 *请以实际发布版本的功能和界面为准。*
 
